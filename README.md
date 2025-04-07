@@ -2,7 +2,7 @@
 
 Simulación interactiva del lema de bombeo para lenguajes formales a partir de una demostración formal adjuntada
 
-Hay tres modos de simulación:
+## Hay tres modos de simulación:
 
 Modo manual (interactivo):
 El usuario ingresa una palabra que cumple con el lenguaje. Luego elige un valor de m (longitud mínima del lema de bombeo).
@@ -49,4 +49,7 @@ A continuación se muestra la demostración matemática usada para justificar lo
 
 - Este proyecto fue hecho en Codespaces.
 - Se puede adaptar para que el autómata gane con distintas estrategias.
+
+## FUENTES:
+Se utiizó la IA para hacer el ambiente más amigable, con el suo de "EMOGIS" y de elementos decorativos en el menú como =,-,_,l. y tambien en el read me, para que se vieran más profecsionales los simbolor de la explciación del código. 
 
