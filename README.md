@@ -51,5 +51,5 @@ A continuación se muestra la demostración matemática usada para justificar lo
 - Se puede adaptar para que el autómata gane con distintas estrategias.
 
 ## FUENTES:
-Se utiizó la IA para hacer el ambiente más amigable, con el suo de "EMOGIS" y de elementos decorativos en el menú como =,-,_,l. y tambien en el read me, para que se vieran más profecsionales los simbolor de la explciación del código. 
+Se utiizó la IA para hacer el ambiente más amigable, con el uso de "EMOGIS" y de elementos decorativos en el menú como =,-,_,l. Y también en el read me, para que se vieran más profesionales los simbolos de la explciación del código. 
 
